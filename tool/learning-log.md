@@ -2,12 +2,12 @@
 
 ## Tool: **Phaser**
 
-## Project: ****
+## Project: Cookie Clicker 
 
 ---
 
-### X/X/XX:
-* Text
+### 10/26/26:
+*  I used <a href = "https://docs.phaser.io/"> Phaser Doc</a> to learn what phaser is used for. 
 
 ### X/X/XX:
 * Text
