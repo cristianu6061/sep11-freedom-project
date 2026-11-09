@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **Phaser**
+## Tool: **Kaboom**
 
-## Project: Cookie Clicker 
+## Project: Avoid The Obstacales
 
 
 
@@ -16,8 +16,9 @@ This would set the camera to look at another part of the world.
 * A question I have is would this world be 3D and would this world have different parts?
 * Next time, I might mess around with making sprites in js bin. I don't know if its possible to actually see if it works though if it's in js bin.
 
-### X/X/XX:
-* Text
+### 11/7/26:
+* I decided to switch to kaboom.
+* I first decided to look at the kaboom tutorial. In this tutorial, I saw a 
 
 
 <!-- 
